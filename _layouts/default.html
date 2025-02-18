@@ -1,0 +1,19 @@
+{% include head.html %}
+
+<body data-spy="scroll" data-target="#localtoc-wrapper" data-offset="0"
+     {% if page.background %}
+     style="background-image: url('{{ page.background }}');
+	    background-position: top center;
+	    background-repeat: no-repeat;
+	    background-size: 100%;
+	    background-color: {{ page.backgroundcolor }};
+	    "
+     {% endif %}
+      >
+  
+
+  {{ content }}
+
+  
+</body>
+</html>
