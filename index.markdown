@@ -22,7 +22,7 @@ layout: home
   The Bute meeting will update on developments in the fields of machine learning and artificial intelligence in gravitational-wave astronomy since the 2024 meeting on Arran.
 
   The AIslands meetings are discussion meetings intended to provide an environment which will nurture collaboration and network building.
-  We invite expressions of interest from across gravitational-wave science, which can be made [on this form](https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyAeVMi1YdgpEhWxbcgUCGgVUMlo5NDNIUVZCTEwxOTVRMVI5UFdCTEFHTy4u).
+  We invite expressions of interest from across gravitational-wave science, which can be made <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyAeVMi1YdgpEhWxbcgUCGgVUMlo5NDNIUVZCTEwxOTVRMVI5UFdCTEFHTy4u">on this form</a>.
 
   We are currently in the process of finalising arrangements, but we hope to keep the registration fee low, but expect it to cover the cost of a networking meal.
   Rothesay has excellent options for dining and refreshments during the course of the meeting.
