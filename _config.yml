@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AIslands
+title: Amaldi Art Show
 email: daniel.williams@glasgow.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  The website for the AIslands meetings.
-baseurl: "/aislands" # the subpath of your site, e.g. /blog
+  The website for the GR-Amaldi 2025 Art Show
+baseurl: "/amaldi-art" # the subpath of your site, e.g. /blog
 url: "uofgravity.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  uofgravity
 
