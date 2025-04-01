@@ -1,2 +1,2 @@
-# aislands
-Repository for the AIslands meetings
+# GR-Amaldi Art Show Websute
+Repository for the art show website.
