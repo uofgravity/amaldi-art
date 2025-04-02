@@ -31,7 +31,7 @@ layout: home
 <ul>
     <li>Images of your artwork should be at an appropriate resolution for printing (e.g., 300 dpi).</li>
     <li>Use a standard format for your image, e.g. PNG, JPG, PDF, SVG.</li>
-    <li>Your artwork will be printed on A3 paper. If possible, please send a file with an aspect ratio consistent with A3 paper, otherwise, we will do our best.</li>
+    <li>Your artwork will be printed on A3 paper. If possible, please send a file with an aspect ratio consistent with A3 paper, otherwise we will do our best.</li>
     <li>Maximum of three submissions per person (we cannot guarantee that we can display all three, but we will do our best).</li>
     <li>Only send artwork images via the form, we cannot accept physical artwork.</li>
     <li>Your artwork should be your own creation. Do not use generative AI.</li>
