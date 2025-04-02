@@ -11,9 +11,9 @@ layout: home
     <div class="p-5 mb-4 bg-body-tertiary rounded-3">
       <div class="container-fluid py-5">
         <h1 class="display-5 fw-bold">GR Amaldi Art Show</h1>
-        <p class="col-md-8 fs-4">This is some text about the art show.
-		Note that when you complete the form providing details of your artwork you'll then need to upload it using the OneDrive link at the end of the form.
-		(You can find that link <a href="https://gla-my.sharepoint.com/:f:/g/personal/daniel_williams_glasgow_ac_uk/Er_G-HkATs9CsPZhbdqfAXMBbFOi562tEkhewg6nU7j0xw">here</a> if you missed it!
+        <p class="col-md-8 fs-4">Information about the art show is given below. 
+		Please complete the form providing details of your artwork. You will then need to upload it using the OneDrive link at the end of the form.
+
 		</p>
         <a href="https://forms.office.com/e/ixtSLRuEN6"
         class="btn btn-primary btn-lg" type="button">Submit your artwork</a>
@@ -31,7 +31,7 @@ layout: home
 <ul>
     <li>Images of your artwork should be at an appropriate resolution for printing (e.g., 300 dpi).</li>
     <li>Use a standard format for your image, e.g. PNG, JPG, PDF, SVG.</li>
-    <li>Your artwork will be printed on A3 paper. If possible, please send a file with an aspect ratio consistent with A3 paper, otherwise we will do our best.</li>
+    <li>Your artwork will be printed on A3 paper. If possible, please send a file with an aspect ratio consistent with A3 paper, otherwise, we will do our best.</li>
     <li>Maximum of three submissions per person (we cannot guarantee that we can display all three, but we will do our best).</li>
     <li>Only send artwork images via the form, we cannot accept physical artwork.</li>
     <li>Your artwork should be your own creation. Do not use generative AI.</li>
