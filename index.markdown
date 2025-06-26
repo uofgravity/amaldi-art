@@ -26,6 +26,8 @@ layout: home
 
 <p>We look forward to receiving your artistic work inspired by the topics of GR-Amaldi!</p>
 
+<p>The deadline for your artwork to be included in the exhibition is 30th June 2025.</p>
+
 <h3>Guidelines for your submissions</h3>
 
 <ul>
@@ -35,7 +37,7 @@ layout: home
     <li>Maximum of three submissions per person (we cannot guarantee that we can display all three, but we will do our best).</li>
     <li>Only send artwork images via the form, we cannot accept physical artwork.</li>
     <li>Your artwork should be your own creation. Do not use generative AI.</li>
-
+</ul>
 
 <h3>How to upload your artwork</h3>
 
