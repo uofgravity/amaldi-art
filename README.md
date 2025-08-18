@@ -1,1 +1,1 @@
-webage : https://ssingh087.github.io/GR_AMALDI_ART_SHOW/
+webage : https://uofgravity.github.io/amaldi-art/
